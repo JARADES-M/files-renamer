@@ -1,5 +1,4 @@
 import java.io.File;
-import java.util.Arrays;
 
 public class FilesRenamer {
     public static void main(String[] args) {
